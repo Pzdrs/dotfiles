@@ -1,0 +1,12 @@
+[core]
+	autocrlf = true
+[user]
+	email = petrbohac3@seznam.cz
+	name = Petr (WSL)
+[credential]
+	helper = store
+	credentialStore = gpg
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[commit]
+	gpgsign = false
