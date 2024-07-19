@@ -1,5 +1,5 @@
 [core]
-	autocrlf = true
+	autocrlf = false
 [user]
 	email = petrbohac3@seznam.cz
 	name = Petr (WSL)
