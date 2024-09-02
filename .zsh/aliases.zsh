@@ -4,6 +4,10 @@ alias ap="ansible-playbook"
 
 alias c="code ."
 
+# Kubernetes
+alias k="kubectl"
+alias talos="talosctl"
+
 # Git
 alias gs="git status"
 alias ga="git add"
